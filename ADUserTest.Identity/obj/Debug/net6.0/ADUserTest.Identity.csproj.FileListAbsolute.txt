@@ -1,0 +1,12 @@
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.csproj.AssemblyReference.cache
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.AssemblyInfoInputs.cache
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.AssemblyInfo.cs
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.csproj.CoreCompileInputs.cache
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\bin\Debug\net6.0\ADUserTest.Identity.deps.json
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\bin\Debug\net6.0\ADUserTest.Identity.dll
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\bin\Debug\net6.0\ADUserTest.Identity.pdb
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.dll
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\refint\ADUserTest.Identity.dll
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ADUserTest.Identity.pdb
+C:\Users\SzűcsÁkos\source\repos\ADUserTest\ADUserTest.Identity\obj\Debug\net6.0\ref\ADUserTest.Identity.dll
